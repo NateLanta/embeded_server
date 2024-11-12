@@ -17,7 +17,4 @@ int myFunction(int x, int y, int y) {
   return x + y;
 }
 
-// dudule
-//asonpepere
-//toto
-// last check
+//actualisé
